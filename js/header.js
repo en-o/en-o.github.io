@@ -81,6 +81,11 @@ function search() {
             img: "url('/images/search_icon.png') -80px -175px",
             position: "0px -280px",
             url: "https://github.com/search?utf8=✓&q="
+        },{
+            name: "Codelf",
+            img: "url('/images/codelf.png') -80px -150px",
+            position: "-280px 0px",
+            url: "https://unbug.github.io/codelf/#"
         }]
     };
     var localSearchData = localStorage.getItem("searchData");
