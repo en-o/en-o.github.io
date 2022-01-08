@@ -12,7 +12,7 @@ function search() {
             position: "0px 0px",
             url: "https://www.baidu.com/s?wd="
         }, {
-            name: "谷歌",
+            name: "GSearch",
             img: "url('/images/search_icon.png')  -105px 0px",
             position: "-40px 0px",
             url: "https://www.google.com/search?q="
